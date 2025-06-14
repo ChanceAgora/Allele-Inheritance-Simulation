@@ -102,7 +102,6 @@ void deleteTree(Person* human)
             deleteTree(human->father);
         free(human);
     }
-    printf("Delete successful\n");
     return;
 }
 
