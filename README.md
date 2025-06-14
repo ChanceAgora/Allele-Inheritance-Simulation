@@ -1,4 +1,4 @@
-#Allele Inheritance Simulator
+# Allele Inheritance Simulator
 
 This is a small project that simulates basic allele inheritance. The program creates a recursive family tree of generations and randomizes the terminal generation's blood type (the blood type of the oldest grandparents to be included.)
 
